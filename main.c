@@ -1,6 +1,7 @@
 /**
  * The BasilC Interpreter
  * Copyright (C) Shawn Anastasio 2016
+ * Copyright (C) Basil Bruns 2016
  * Licensed under the GNU GPL v3
  */
 
